@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5888806d-8857-4cdc-9130-730560448346" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Img/Background.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/Goodstuff-No-Nonsense-Free-Space-Darth-vader.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/Millennium-Falcon-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/laser.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/out-of-space-wallpaper-1024x576.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/space-2d-screenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/space-blog-890x606.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/stormtrooper-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectPurple/Form1.resx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectPurple/obj/Debug/ProjectPurple.Form1.resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ProjectPurple/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ProjectPurple/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectPurple/Form1.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectPurple/Form1.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectPurple/Form1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectPurple/Form1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectPurple/ProjectPurple.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectPurple/ProjectPurple.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectPurple/bin/Debug/ProjectPurple.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectPurple/bin/Debug/ProjectPurple.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectPurple/bin/Debug/ProjectPurple.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectPurple/bin/Debug/ProjectPurple.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectPurple/obj/Debug/ProjectPurple.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectPurple/obj/Debug/ProjectPurple.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectPurple/obj/Debug/ProjectPurple.csproj.GenerateResource.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectPurple/obj/Debug/ProjectPurple.csproj.GenerateResource.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectPurple/obj/Debug/ProjectPurple.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectPurple/obj/Debug/ProjectPurple.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectPurple/obj/Debug/ProjectPurple.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectPurple/obj/Debug/ProjectPurple.pdb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Fvw72cMrXAG3grFfcHy1tEtkAf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="ProjectPurple" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ProjectPurple/ProjectPurple.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5888806d-8857-4cdc-9130-730560448346" name="Changes" comment="" />
+      <created>1665386217779</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665386217779</updated>
+      <workItem from="1665386226931" duration="11128000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

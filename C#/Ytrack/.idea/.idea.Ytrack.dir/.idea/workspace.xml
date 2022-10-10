@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="292f0c3c-5532-4c12-9842-e07ac43b5cff" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Ytrack.dir/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Ytrack.dir/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quest1/AddTwoIntegers.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quest1/BeginsWithSpecificCharacter.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quest1/Capitalize.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quest1/ConcatEverything.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quest1/ContainsSpecificSubstring.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quest1/DoubleArrayForEvenInteger.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quest1/GetStringSize.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quest1/HelloWorld.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quest1/IsOdd.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quest1/RemoveSpaces.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quest1/SetPiValue.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quest1/SpellItBackwards.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quest2/AreEquals.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quest2/ContainsThisValue.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quest2/DifferenceInMinutes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quest2/DisplayDateWithoutTime.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quest2/FindLastIndex.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quest2/FromStringToDateTime.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quest2/SecretSanta.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quest2/SortTable.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quest2/TodayAtMidnight.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quest3/HistoricalMonument.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quest3/PointOfInterest.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ConsoleApp1/ConsoleApp1/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../ConsoleApp1/ConsoleApp1/Program.cs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Quest1/ConcatEverything.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Quest1/DoubleArrayForEvenInteger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Quest1/IsOdd.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Quest1/SetPiValue.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Quest1/SpellItBackwards.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Quest2/AreEquals.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Quest2/ContainsThisValue.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Quest2/DifferenceInMinutes.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Quest2/DisplayDateWithoutTime.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Quest2/FindLastIndex.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Quest2/FromStringToDateTime.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Quest2/SecretSanta.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Quest2/SortTable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Quest2/TodayAtMidnight.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Quest3/HistoricalMonument.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Quest3/PointOfInterest.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/challenge-csharp/Campus.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/challenge-csharp/Car.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/challenge-csharp/CarInterfaces.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/challenge-csharp/HybridCar.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/challenge-csharp/PointOfInterest.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/challenge-csharp/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/challenge-csharp/Truck.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/challenge-csharp/Vehicule.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FciK0nqFvsNXtHRCoAYAZRv0AQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="292f0c3c-5532-4c12-9842-e07ac43b5cff" name="Changes" comment="" />
+      <created>1664797705477</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664797705477</updated>
+      <workItem from="1664797707719" duration="206000" />
+      <workItem from="1664799549166" duration="1972000" />
+      <workItem from="1665248435778" duration="4865000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

@@ -190,20 +190,20 @@ Console.WriteLine("The current time is " + DateTime.Now);
 // } while (randomNumbers.Length > 0);
 
 
-static void HelloWorld()
-{
-    Console.WriteLine("HelloWorld");
-}
-
-static int Add(int x, int y, int z)
-{
-    return x + y + z;
-}
-
-static void Recur1(int x)
-{
-  
-}
+// static void HelloWorld()
+// {
+//     Console.WriteLine("HelloWorld");
+// }
+//
+// static int Add(int x, int y, int z)
+// {
+//     return x + y + z;
+// }
+//
+// static void Recur1(int x)
+// {
+//   
+// }
 // static int yep(int x, int y)
 // {
 //     return x + y;
@@ -227,12 +227,118 @@ static void Recur1(int x)
 //     }
 // }
 
-static void Main(string[] args)
+// static void Main(string[] args)
+// {
+//     Add(2,5,7);
+//     HelloWorld();
+//     Recur1(5);
+// }
+//
+// Main(args);
+
+class Voiture
 {
-    Add(2,5,7);
-    HelloWorld();
-    Recur1(5);
+    
+    public string Color;
+    public int Annee;
+    public string Marque;
+    private int _vitesse = 10;
+    public Voiture (string marque, string color, int annee)
+    {
+        Marque = marque;
+        Color = color;
+        Annee = annee;
+    }
+    public int getVitesse()
+    {
+        return _vitesse;
+    }
+    public void setVitesse(int vitesse)
+    {
+        _vitesse = vitesse;
+    }
 }
 
-Main(args);
+class Programm
+{
+    static void Display(Voiture voiture)
+    {
+        Console.WriteLine("La voiture est de la marque " + voiture.Marque + " de couleur " + voiture.Color +
+                          " et de l'année " + voiture.Annee);
+    }
+    
+   
+    static void Main(string[] args)
+    {
+        Voiture voiture1 = new Voiture("Renault", "Rouge", 2010);
+        Display(voiture1);
+        Epicier.Display2(new Fruit("Banane", "France"));
+        Viande.Manger();
+        Legumes.Manger();
+    }
 
+    
+}
+
+class Aliment
+{
+    public string Origine;
+    public void Manger()
+    {
+        Console.WriteLine("Je mange");
+    }
+}
+class Fruit : Aliment
+{
+    public string Name;
+    public Fruit(string name, string origine)
+    {
+        Name = name;
+        Origine = origine;
+    }
+    public void Manger()
+    {
+        Console.WriteLine("Je mange un fruit");
+    }
+}
+
+class Epicier
+{
+    public static void Display2 (Fruit fruit)
+    {
+        Console.WriteLine("Le fruit est de l'origine " + fruit.Origine + " et de nom " + fruit.Name);
+    }
+}
+
+class Legumes : Aliment
+{
+    public static void Manger()
+    {
+        Console.WriteLine("Je mange un légume");
+    }
+}
+class Viande : Aliment
+{
+     public static void Manger()
+    {
+        Console.WriteLine("Je mange de la viande");
+    }
+}
+
+
+interface IInterface
+{
+    void System();
+}
+public abstract class A7 : IInterface
+{
+    public abstract void System();
+}
+
+enum Season
+{
+    Spring,
+    Summer,
+    Autumn,
+    Winter
+}

@@ -1,0 +1,11 @@
+C:\Users\davym\Downloads\Ynov\B2\C sharp\C#\ProjectPurple\ProjectPurple\ProjectPurple\bin\Debug\ProjectPurple.exe.config
+C:\Users\davym\Downloads\Ynov\B2\C sharp\C#\ProjectPurple\ProjectPurple\ProjectPurple\bin\Debug\ProjectPurple.exe
+C:\Users\davym\Downloads\Ynov\B2\C sharp\C#\ProjectPurple\ProjectPurple\ProjectPurple\bin\Debug\ProjectPurple.pdb
+C:\Users\davym\Downloads\Ynov\B2\C sharp\C#\ProjectPurple\ProjectPurple\ProjectPurple\obj\Debug\ProjectPurple.csproj.AssemblyReference.cache
+C:\Users\davym\Downloads\Ynov\B2\C sharp\C#\ProjectPurple\ProjectPurple\ProjectPurple\obj\Debug\ProjectPurple.csproj.SuggestedBindingRedirects.cache
+C:\Users\davym\Downloads\Ynov\B2\C sharp\C#\ProjectPurple\ProjectPurple\ProjectPurple\obj\Debug\ProjectPurple.Properties.Resources.resources
+C:\Users\davym\Downloads\Ynov\B2\C sharp\C#\ProjectPurple\ProjectPurple\ProjectPurple\obj\Debug\ProjectPurple.csproj.GenerateResource.cache
+C:\Users\davym\Downloads\Ynov\B2\C sharp\C#\ProjectPurple\ProjectPurple\ProjectPurple\obj\Debug\ProjectPurple.csproj.CoreCompileInputs.cache
+C:\Users\davym\Downloads\Ynov\B2\C sharp\C#\ProjectPurple\ProjectPurple\ProjectPurple\obj\Debug\ProjectPurple.exe
+C:\Users\davym\Downloads\Ynov\B2\C sharp\C#\ProjectPurple\ProjectPurple\ProjectPurple\obj\Debug\ProjectPurple.pdb
+C:\Users\davym\Downloads\Ynov\B2\C sharp\C#\ProjectPurple\ProjectPurple\ProjectPurple\obj\Debug\ProjectPurple.Form1.resources
